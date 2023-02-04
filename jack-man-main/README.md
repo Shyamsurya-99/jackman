@@ -1,6 +1,6 @@
 # JACK-MAN
 
-PAC-MAN clone written in Jack
+PAC-MAN clone written in Jack lang by G Shyam surya
 
 Shyam surya, 2022
 
